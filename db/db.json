@@ -1,0 +1,56 @@
+{
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "edad": 20,
+      "cursoId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "María García",
+      "edad": 22,
+      "cursoId": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Rodríguez",
+      "edad": 19,
+      "cursoId": 1
+    },
+    {
+      "nombre": "Rosario Flores",
+      "edad": 20,
+      "cursoId": 4,
+      "id": 4
+    },
+    {
+      "nombre": "Rodrigo Campos",
+      "edad": 21,
+      "cursoId": 3,
+      "id": 5
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "Matemáticas",
+      "descripcion": "Curso de álgebra y cálculo."
+    },
+    {
+      "id": 2,
+      "nombre": "Historia",
+      "descripcion": "Curso de historia mundial."
+    },
+    {
+      "id": 3,
+      "nombre": "Programación",
+      "descripcion": "Curso de introducción a la programación."
+    },
+    {
+      "nombre": "Quimica",
+      "descripcion": "Quimica Organica",
+      "id": 4
+    }
+  ]
+}
